@@ -1,0 +1,14 @@
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\obj\Debug\netcoreapp3.1\MarsRover.BLL.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\obj\Debug\netcoreapp3.1\MarsRover.BLL.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\obj\Debug\netcoreapp3.1\MarsRover.BLL.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\obj\Debug\netcoreapp3.1\MarsRover.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\bin\Debug\netcoreapp3.1\MarsRover.BLL.deps.json
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\bin\Debug\netcoreapp3.1\MarsRover.BLL.dll
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\bin\Debug\netcoreapp3.1\MarsRover.BLL.pdb
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\bin\Debug\netcoreapp3.1\MarsRover.Data.dll
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\bin\Debug\netcoreapp3.1\MarsRover.Helper.dll
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\bin\Debug\netcoreapp3.1\MarsRover.Data.pdb
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\bin\Debug\netcoreapp3.1\MarsRover.Helper.pdb
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\obj\Debug\netcoreapp3.1\MarsRover.BLL.csproj.CopyComplete
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\obj\Debug\netcoreapp3.1\MarsRover.BLL.dll
+C:\Users\Mehmet\source\repos\MarsRover\MarsRover.BLL\obj\Debug\netcoreapp3.1\MarsRover.BLL.pdb
